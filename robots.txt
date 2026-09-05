@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap: https://GANTI-DOMAIN-KAMU/sitemap.xml
+Sitemap: https://gudangproxy.github.io/proxy-guide/sitemap.xml
